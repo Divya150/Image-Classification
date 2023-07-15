@@ -1,0 +1,2 @@
+# Image-Classification
+I have utilized the computer vision module cv2 to develop an image classification model for identifying well-known personalities. The model was trained using a manually curated dataset of images. To collect the dataset, I employed the Fatkun Chrome extension, which enabled me to download images in batches. Presently, the model exhibits an accuracy rate of approximately 87%. However, I believe that by augmenting the dataset with a larger volume of diverse images, further improvements in accuracy can be achieved.
